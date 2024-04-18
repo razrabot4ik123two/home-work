@@ -12,5 +12,5 @@ function addNewFolder(folderUrl) {
     folderList.appendChild(newFolder);
 }
 
-const newFolderURL = 'https://github.com/new-folder';
+const newFolderURL = 'https://github.com/razrabot4ik123two/home-work/commits?author=razrabot4ik123two';
     addNewFolder(newFolderURL)
